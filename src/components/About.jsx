@@ -90,7 +90,7 @@ const About = ({ darkMode }) => {
                         : COLORS.light.primary,
                     }}
                   >
-                    1+
+                    {"<1"}
                   </h3>
                   <p className="text-sm opacity-80">Years Experience</p>
                 </div>
@@ -110,7 +110,7 @@ const About = ({ darkMode }) => {
                         : COLORS.light.secondary,
                     }}
                   >
-                    3+
+                    2+
                   </h3>
                   <p className="text-sm opacity-80">Projects Completed</p>
                 </div>
